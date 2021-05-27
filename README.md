@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FullStackSoft
+- 👋 Hi, I’m @Henrry G
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript  
 - 💞️ I’m looking to collaborate to the community
