@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript  
 - 💞️ I’m looking to collaborate to the community
-- 📫 How to reach me henrrygc@aol.com
+- 📫 How to reach me hgfullstacksoft@gmail.com
 
 <!---
 FullStackSoft/FullStackSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
